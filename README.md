@@ -22,11 +22,14 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-Note: Imgur doesn't support linking directly to a gif. It only allows you to redirect user to their site. Please click the link: "Video Walkthrough" to view the gif at Imgur.
+(Note: it takes a second to load - if its not showing up, <a href="//imgur.com/txfDDy6">View it on Imgur</a>)
 
+
+
+![](https://github.com/AGprofessional/web102_prework/blob/main/assets/VideoWalkthrough1.gif) 
 <!--img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-<!--img src='https://imgur.com/gallery/txfDDy6' title='Video Walkthrough' width='' alt='Video Walkthrough'/> -->
-<a href="//imgur.com/txfDDy6">Video Walkthrough</a>
+
+Or View at Imgur.com: <a href="//imgur.com/txfDDy6">Video Walkthrough</a>
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ...  
