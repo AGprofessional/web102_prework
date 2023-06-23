@@ -25,9 +25,8 @@ Here's a walkthrough of implemented features:
 
 
 
-<!--![](https://github.com/AGprofessional/web102_prework/blob/main/assets/VideoWalkthrough1.gif) -->
+![](https://github.com/AGprofessional/web102_prework/blob/main/assets/VideoWalkthrough1.gif = 250x250) 
 <!--img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/AGprofessional/web102_prework/blob/main/assets/VideoWalkthrough1.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 Or View at Imgur.com: <a href="//imgur.com/txfDDy6">Video Walkthrough</a>
 <!-- Replace this with whatever GIF tool you used! -->
