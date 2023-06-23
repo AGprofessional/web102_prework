@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+(Note: it takes a second to load - if its not showing up, <a href="//imgur.com/txfDDy6">View it on Imgur</a>)
 
 
 
